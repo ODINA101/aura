@@ -1,0 +1,42 @@
+[2018-04-08 00:35:20.789] [sharedprocess] [info] main {"machineId":"fba60a6f03b62f661d047839410f71d3236e7917f365cdb85dac48f27fb6bc38"}
+[2018-04-08 00:35:20.855] [sharedprocess] [info] Scanned user extensions: 9
+[2018-04-08 00:35:20.944] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-08 00:35:22.057] [sharedprocess] [info] Scanned user extensions: 9
+[2018-04-08 00:35:22.067] [sharedprocess] [info] Scanned user extensions: 9
+[2018-04-08 00:35:22.099] [sharedprocess] [info] Scanned user extensions: 9
+[2018-04-08 00:35:22.186] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-08 00:35:22.190] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-08 00:35:24.576] [sharedprocess] [info] Scanned user extensions: 9
+[2018-04-08 00:36:00.797] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-04-08 00:40:24.662] [sharedprocess] [info] Scanned user extensions: 9
+[2018-04-08 00:45:24.678] [sharedprocess] [info] Scanned user extensions: 9
+[2018-04-08 00:48:01.259] [sharedprocess] [info] Scanned user extensions: 9
+[2018-04-08 00:48:01.271] [sharedprocess] [info] Scanned user extensions: 9
+[2018-04-08 00:48:01.273] [sharedprocess] [info] Scanned user extensions: 9
+[2018-04-08 00:48:01.378] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-08 00:48:01.382] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-08 00:48:08.432] [sharedprocess] [info] Scanned user extensions: 9
+[2018-04-08 00:48:08.441] [sharedprocess] [info] Scanned user extensions: 9
+[2018-04-08 00:48:08.516] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-08 00:48:08.519] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-08 00:48:17.130] [sharedprocess] [info] Installing extension: react-native-react-redux-snippets-for-es6-es7-version-standard
+[2018-04-08 00:48:18.171] [sharedprocess] [info] Downloaded extension: react-native-react-redux-snippets-for-es6-es7-version-standard
+[2018-04-08 00:48:18.262] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/EQuimper.react-native-react-redux-snippets-for-es6-es7-version-standard-1.0.3: EQuimper.react-native-react-redux-snippets-for-es6-es7-version-standard-1.0.3
+[2018-04-08 00:48:18.269] [sharedprocess] [info] Updated metadata of the extension: EQuimper.react-native-react-redux-snippets-for-es6-es7-version-standard-1.0.3
+[2018-04-08 00:48:18.270] [sharedprocess] [info] Extensions installed successfully: EQuimper.react-native-react-redux-snippets-for-es6-es7-version-standard
+[2018-04-08 00:48:18.422] [sharedprocess] [info] Scanned user extensions: 10
+[2018-04-08 00:48:18.464] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-08 00:48:23.351] [sharedprocess] [info] Scanned user extensions: 10
+[2018-04-08 00:48:23.364] [sharedprocess] [info] Scanned user extensions: 10
+[2018-04-08 00:48:23.391] [sharedprocess] [info] Scanned user extensions: 10
+[2018-04-08 00:48:23.392] [sharedprocess] [info] Scanned user extensions: 10
+[2018-04-08 00:48:23.394] [sharedprocess] [info] Scanned user extensions: 10
+[2018-04-08 00:48:23.459] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-08 00:48:23.462] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-08 00:48:23.469] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-08 00:48:26.621] [sharedprocess] [info] Scanned user extensions: 10
+[2018-04-08 00:53:26.752] [sharedprocess] [info] Scanned user extensions: 10
+[2018-04-08 00:58:26.814] [sharedprocess] [info] Scanned user extensions: 10
+[2018-04-08 01:03:26.877] [sharedprocess] [info] Scanned user extensions: 10
+[2018-04-08 01:08:27.003] [sharedprocess] [info] Scanned user extensions: 10
+[2018-04-08 01:13:27.021] [sharedprocess] [info] Scanned user extensions: 10

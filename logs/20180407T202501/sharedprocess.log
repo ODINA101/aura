@@ -1,0 +1,22 @@
+[2018-04-07 20:25:02.505] [sharedprocess] [info] main {"machineId":"fba60a6f03b62f661d047839410f71d3236e7917f365cdb85dac48f27fb6bc38"}
+[2018-04-07 20:25:02.583] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-07 20:25:02.655] [sharedprocess] [info] Deleted from disk Mikael.angular-beastcode-6.0.6
+[2018-04-07 20:25:02.669] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-07 20:25:03.686] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-07 20:25:03.697] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-07 20:25:03.734] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-07 20:25:03.826] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-07 20:25:03.832] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-07 20:25:06.017] [sharedprocess] [info] Installing extension: Angular-BeastCode
+[2018-04-07 20:25:06.306] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-07 20:25:08.249] [sharedprocess] [info] Downloaded extension: Angular-BeastCode
+[2018-04-07 20:25:08.349] [sharedprocess] [info] Extracted extension to /home/odina/.vscode/extensions/Mikael.angular-beastcode-6.0.8: Mikael.angular-beastcode-6.0.8
+[2018-04-07 20:25:08.353] [sharedprocess] [info] Updated metadata of the extension: Mikael.angular-beastcode-6.0.8
+[2018-04-07 20:25:08.354] [sharedprocess] [info] Extensions installed successfully: Mikael.angular-beastcode
+[2018-04-07 20:25:08.499] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-07 20:25:08.521] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-07 20:25:42.515] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-04-07 20:30:06.392] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-07 20:35:06.439] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-08 00:25:02.525] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-08 00:30:02.631] [sharedprocess] [info] Scanned user extensions: 8
